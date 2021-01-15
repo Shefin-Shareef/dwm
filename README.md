@@ -1,2 +1,6 @@
 # dwm
-Defualt wm
+Dependencies
+
+awesome-fonts
+
+jetbrain mono fonts
